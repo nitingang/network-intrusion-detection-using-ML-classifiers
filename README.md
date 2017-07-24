@@ -11,6 +11,12 @@ and Support Vector Machine. After getting the results of each classifiers I have
 performed some Ensemble techniques to get the better results than that of individual
 classifiers. I have performed Majority Voting(basic ensemble technique) and Stack
 Generalization to get the better results.
+After these tasks I have also done an expertiment with Nueral Network like I
+have taken the outputs of individual classifiers and put them into a neural network to
+achieve some better results, its like ensembling only but the thing is I used a Neural
+Network to combine the results.
 Finally I got to know that individually J48 and SVM are giving the good
 results compared to NaiveBase. If I talk about Ensembling, Stack Generalization and
-is far better than Majority voting.
+Neural Netwrok are far better than Majority voting.
+- I have performed all the task with the help of WEKA.
+- http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
